@@ -244,4 +244,4 @@ Incorrect utility location can result in serious injury, death, or property dama
 
 **🐛 Found a bug?** [Open an issue](https://github.com/micahw5/gpr-utility-detection/issues)
 
-**💡 Have a suggestion?** [Start a discussion](https://github.com/micahw5/gpr-utility-detection/discussions)
+**👍 You can contact us personally for any questions or recommendation we will response as soon as possible .
