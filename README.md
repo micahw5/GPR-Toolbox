@@ -194,7 +194,7 @@ We welcome validation studies and accuracy reports from the community.
 If you use this tool in research or publications, please cite:
 
 ```
-[Micah Williams/Joe Risk]. (2025). GPR Utility Detection Tool for ArcGIS Pro (Version 9.2) 
+[Micah Williams/Joe Risk]. (2026). GPR Utility Detection Tool for ArcGIS Pro (Version 9.2) 
 [Software]. GitHub. https://github.com/micahw5/gpr-utility-detection
 ```
 
@@ -226,7 +226,7 @@ Incorrect utility location can result in serious injury, death, or property dama
 
  
  **[Joe Risk]**
-- GitHub: [micahw5](https://github.com/yourusername)
+- GitHub: [jrisknis](https://github.com/jrisknis)
 - Email: jrisk@nelsonintelligencesolutions.com
 
 ## 🙏 Acknowledgments
