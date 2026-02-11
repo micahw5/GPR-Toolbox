@@ -1,4 +1,4 @@
-# GPR Utility Detection PRO
+# GPR Toolbox
 
 **Automated hyperbola detection and GIS integration for ArcGIS Pro**
 
